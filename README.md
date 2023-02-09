@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="UEMan8V" data-context="false" ><a href="//imgur.com/UEMan8V"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='./video.gif'>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
